@@ -21,7 +21,7 @@ git clone https://github.com/hjuiihu/No-More-Weapons-On-NPC [local]/No-More-Weap
 
 ### Instalation
 
-- Add `start No-More-Weapons-On-NPC` to your `server.cfg`.
+- Add `start cl_No-More-Weapons-On-NPC` to your `server.cfg`.
 
 #### Legal
 
