@@ -3,8 +3,8 @@ ___________________________________________________________________________
 						
 						AUTHOR : Hjuiihu
 
-			Plus aucune armes droppées par les PNJ
-			Peds wont drop weapons no more
+			         Aucune arme pour les pnj
+			         No weapon for the NPCs
 		
 
 ____________________________________________________________________________					
